@@ -1,0 +1,26 @@
+{
+  "name": "sqlite-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic-sqlite-database.js",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "sequelize": "^3.5.1",
+    "sqlite3": "^3.1.13",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taha-abbasi/sqlite-demos.git"
+  },
+  "author": "Taha Abbasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taha-abbasi/sqlite-demos/issues"
+  },
+  "homepage": "https://github.com/taha-abbasi/sqlite-demos#readme"
+}
