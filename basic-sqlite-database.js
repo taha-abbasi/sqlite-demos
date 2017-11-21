@@ -18,7 +18,7 @@ sequelize.sync().then(function () {
 
 
     Todo.create({
-        description: 'Walking my dog',
+        description: 'Walking my cat',
         completed: false
     }).then(function (todo) {
         console.log('Finished');
